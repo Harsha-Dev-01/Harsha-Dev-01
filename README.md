@@ -5,13 +5,12 @@ Aspiring Software Developer from India.
 ## About Me
 - Learning Programming and Problem Solving
 - Currently practicing JavaScript and Data Structures
-- Goal: Become a strong developer and get a tech internship
+- Goal: Become a strong developer and get a tech Job
 
 ## Tech Stack
 - HTML
 - CSS
 - JavaScript
-- C++
 - Git & GitHub
 
 ## Current Focus
@@ -22,7 +21,6 @@ Aspiring Software Developer from India.
 ## Projects
 - Todo App
 - Calculator
-- Portfolio Website (Coming Soon)
 
 ## GitHub Goals
 - Push code daily
